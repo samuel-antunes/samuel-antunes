@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **A.I. projects**
 
-- 👨‍💻 My portfolio is available at [samuel-antunes.github.io](samuel-antunes.github.io)
+- 👨‍💻 My portfolio is available at [samuel-antunes.github.io](https://samuel-antunes.github.io)
 
 - 📫 How to reach me **samuelamiranda18@gmail.com**
 
