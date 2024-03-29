@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **an Image Editing app for an Observatory**
 
-- 🌱 I’m currently learning **Frontend, Backend technologies, and how to integrate A.I. into them.**
+- 🌱 I’m currently learning **Full stack technologies, and how to integrate A.I. into different projects.**
 
 - 👯 I’m looking to collaborate on **A.I. projects**
 
